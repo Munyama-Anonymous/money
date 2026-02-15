@@ -9,5 +9,11 @@
     width="300px";
     height="180px";
 }
+.top-right{
+    position:fixed;
+    top:10px;
+    right:10px:
+}
+
 
 
