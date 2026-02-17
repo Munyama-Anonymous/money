@@ -7,6 +7,15 @@ body{
     background-image:url("karis/wenf.jpg");
 
 }
+.image-row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px:
+}
+.image-row img{
+    width:ca;calc(50%-20px);
+    height:auto;
+}
 .ul{
     img{
     width:"100px";
@@ -18,6 +27,7 @@ body{
     top: 10px;
     right: 10px:
 }
+
 
 
 
